@@ -3,9 +3,22 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "firebase": "^5.11.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.0"
+    "react-redux": "^5.1.1",
+    "react-redux-firebase": "^2.2.6",
+    "react-redux-toastr": "^7.4.9",
+    "react-router-dom": "^5.0.0",
+    "react-scripts": "3.0.0",
+    "redux": "^4.0.1",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-firestore": "^0.7.3",
+    "redux-form": "^8.2.0",
+    "redux-thunk": "^2.3.0",
+    "revalidate": "^1.2.0",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^0.86.0"
   },
   "scripts": {
     "start": "react-scripts start",
